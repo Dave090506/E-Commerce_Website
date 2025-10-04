@@ -518,3 +518,37 @@ section + section {
   color: white;
   text-decoration-color: #515050;
 }
+.customer_service {
+  border: none;
+  margin-top: 90px;
+}
+.customer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  text-align: center;
+}
+
+footer {
+  background-color: #000000;
+  color: white;
+  margin-top: 120px;
+}
+.footer {
+  display: flex;
+  gap: 100px;
+  margin-left: 70px;
+  margin-bottom: 40px;
+}
+.footer a {
+  color: white;
+  text-decoration-color: #000000;
+}
+.Copyright {
+  text-align: center;
+  color: #6e6e6e;
+  margin-top: 40px;
+  border-top: 1px solid#1b1a1a;
+  margin-bottom: 30px;
+}
